@@ -123,4 +123,4 @@ B.Tech CSE Student
 
 📜 License
 
-This project is intended for academic and research purposes only.
+Springer Nature.
